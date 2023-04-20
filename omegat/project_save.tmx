@@ -6,10 +6,1242 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN-GB">
+        <seg>&lt;a0&gt;The working environment&lt;/a0&gt;</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Karolina" changedate="20230327T152401Z" creationid="Karolina" creationdate="20230326T213719Z">
+        <seg>&lt;a0&gt;Środowisko pracy&lt;/a0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>&lt;a0&gt;Top&lt;/a0&gt;  &lt;a1&gt;Next&lt;/a1&gt;</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Karolina" changedate="20230326T213944Z" creationid="Karolina" creationdate="20230326T213944Z">
+        <seg>&lt;a0&gt;Do góry&lt;/a0&gt; &lt;a1&gt;Dalej&lt;/a1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>&lt;a0&gt;Top&lt;/a0&gt;  &lt;a1&gt;Previous&lt;/a1&gt;  &lt;a2&gt;Next&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Karolina" changedate="20230327T103218Z" creationid="Karolina" creationdate="20230326T214037Z">
+        <seg>&lt;a0&gt;Do góry&lt;/a0&gt; &lt;a1&gt;Dalej&lt;/a1&gt; &lt;a2&gt;Następna&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>&lt;s0&gt;Boolean&lt;/s0&gt; - The Boolean type stores a value that can be either true or false (or Yes or No).</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Karolina" changedate="20230327T143747Z" creationid="Karolina" creationdate="20230327T143747Z">
+        <seg>&lt;s0&gt;Boolean&lt;/s0&gt; - Typ Boolean przechowuje wartość, która może być prawdziwa lub fałszywa (lub Tak lub Nie).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>&lt;s0&gt;DATA TYPE&lt;/s0&gt; - Each variable in the data file must have a type.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Karolina" changedate="20230327T143225Z" creationid="Karolina" creationdate="20230327T143225Z">
+        <seg>&lt;s0&gt;DATA TYPE&lt;/s0&gt; - Każda zmienna w pliku danych musi mieć swój typ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>&lt;s0&gt;DESCRIPTION&lt;/s0&gt; - The Description option is used to enter a variable label that describes in more detail the content of the variable.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Karolina" changedate="20230327T143153Z" creationid="Karolina" creationdate="20230327T143131Z">
+        <seg>&lt;s0&gt;DESCRIPTION&lt;/s0&gt; - opcja Opis (Description) służy do wprowadzenia etykiety zmiennej, która bardziej szczegółowo opisuje zawartość zmiennej.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>&lt;s0&gt;Date&lt;/s0&gt; - The date type holds a year, month and day.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Karolina" changedate="20230327T143730Z" creationid="Karolina" creationdate="20230327T143730Z">
+        <seg>&lt;s0&gt;Date&lt;/s0&gt; - Typ daty przechowuje rok, miesiąc i dzień.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>&lt;s0&gt;Document&lt;/s0&gt; - This data type is used to store documents that will be manually coded.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Karolina" changedate="20230327T143254Z" creationid="Karolina" creationdate="20230327T143254Z">
+        <seg>&lt;s0&gt;Document&lt;/s0&gt; - Ten typ danych służy do przechowywania dokumentów, które będą ręcznie kodowane.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>&lt;s0&gt;Each window may be resized either horizontally or vertically, by dragging its border.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Karolina" changedate="20230326T214756Z" creationid="Karolina" creationdate="20230326T214756Z">
+        <seg>&lt;s0&gt;Każde okno może być zmieniane w poziomie lub w pionie poprzez przeciąganie jego granicy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>&lt;s0&gt;Free Q&lt;/s0&gt;&lt;s1&gt;UALITATIVE &lt;/s1&gt;&lt;s2&gt;A&lt;/s2&gt;&lt;s3&gt;NALYSIS &lt;/s3&gt;&lt;s4&gt;S&lt;/s4&gt;&lt;s5&gt;OFTWARE&lt;/s5&gt;</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Karolina" changedate="20230326T213636Z" creationid="Karolina" creationdate="20230326T213636Z">
+        <seg>Darmowe OPROGRAMOWANIE DO ANALIZY JAKOŚCIOWEJ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>&lt;s0&gt;Image&lt;/s0&gt; - This data type is used to store graphics that will be manually coded.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Karolina" changedate="20230327T143351Z" creationid="Karolina" creationdate="20230327T143351Z">
+        <seg>&lt;s0&gt;Image&lt;/s0&gt; - Ten typ danych służy do przechowywania grafiki, która będzie ręcznie kodowana.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>&lt;s0&gt;Merge start and end pages - &lt;/s0&gt;&lt;s1&gt;By default, start-page and end-page numbers are stored in separate variables.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Karolina" changedate="20230327T142615Z" creationid="Karolina" creationdate="20230327T142615Z">
+        <seg>&lt;s0&gt;Scalenie stron początkowych i końcowych - &lt;/s0&gt;&lt;s1&gt;Domyślnie numery stron początkowych i końcowych są przechowywane w oddzielnych zmiennych.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>&lt;s0&gt;Nominal/Ordinal&lt;/s0&gt; - Nominal or ordinal variables are used to hold a limited number of short strings used to describe specific properties of a case.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Karolina" changedate="20230327T143517Z" creationid="Karolina" creationdate="20230327T143517Z">
+        <seg>&lt;s0&gt;Nominal/Ordinal&lt;/s0&gt; - zmienne nominalne lub porządkowe służą do przechowywania ograniczonej liczby krótkich ciągów znaków używanych do opisywania konkretnych właściwości sprawy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>&lt;s0&gt;Numeric&lt;/s0&gt; - Numeric variables can contain either integer or floating-point numbers.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Karolina" changedate="20230327T143440Z" creationid="Karolina" creationdate="20230327T143440Z">
+        <seg>&lt;s0&gt;Numeric&lt;/s0&gt; - zmienne numeryczne mogą zawierać liczby całkowite lub zmiennoprzecinkowe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>&lt;s0&gt;Select variables to import&lt;/s0&gt; - This list box allows you to put check marks beside variables that you want to import.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Karolina" changedate="20230327T142511Z" creationid="Karolina" creationdate="20230327T142511Z">
+        <seg>&lt;s0&gt;Wybierz zmienne do importu&lt;/s0&gt; - To pole listy pozwala na umieszczenie znaczników wyboru obok zmiennych, które chcemy zaimportować.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>&lt;s0&gt;Short String&lt;/s0&gt; - Short string variables can contain up to 254 alphanumeric characters.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Karolina" changedate="20230327T143753Z" creationid="Karolina" creationdate="20230327T143753Z">
+        <seg>&lt;s0&gt;Short String&lt;/s0&gt; - zmienne typu Short String mogą zawierać do 254 znaków alfanumerycznych.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>&lt;s0&gt;Spr&lt;/s0&gt;&lt;s1&gt;eadsheet Data Files&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Karolina" changedate="20230327T141647Z" creationid="Karolina" creationdate="20230327T141550Z">
+        <seg>&lt;s0&gt;Spr&lt;/s0&gt;&lt;s1&gt;Pliki danych eadsheet&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>&lt;s0&gt;The PROJECT drop-down menu gives you access to various operations related to entire projects, such as project creation, &lt;/s0&gt;opening and configuration.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Karolina" changedate="20230327T102242Z" creationid="Karolina" creationdate="20230327T102242Z">
+        <seg>&lt;s0&gt;Menu rozwijane PROJEKT daje dostęp do różnych operacji związanych z całymi projektami, takich jak tworzenie&lt;/s0&gt; otwieranie i konfiguracja projektu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>&lt;s0&gt;The large &lt;/s0&gt;DOCUMENT window on the right side of the screen is the main working space.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Karolina" changedate="20230326T214421Z" creationid="Karolina" creationdate="20230326T214421Z">
+        <seg>&lt;s0&gt;Duże okno&lt;/s0&gt;DOKUMENT po prawej stronie ekranu jest główną przestrzenią roboczą.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>&lt;s0&gt;The picture below provides an example of the QDA Miner workspace.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Karolina" changedate="20230326T214127Z" creationid="Karolina" creationdate="20230326T214127Z">
+        <seg>&lt;s0&gt;Na poniższym rysunku przedstawiono przykładowy obszar roboczy QDA Miner.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>&lt;s0&gt;The text and code retrieval features as well as the various exploratory tools available in QDA Miner (coding sequences or co-occurrences analysis, heatmaps and correspondence analysis plot, etc)&lt;/s0&gt; are all grouped under the ANALYSIS drop-down menu.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Karolina" changedate="20230327T102647Z" creationid="Karolina" creationdate="20230327T102333Z">
+        <seg>&lt;s0&gt;Funkcje wyszukiwania tekstu i kodu, jak również różne narzędzia eksploracyjne dostępne w QDA Miner (analiza sekwencji kodowania lub współwystępowania, mapy ciepła i wykresy analizy korespondencji, itp.)&lt;/s0&gt; są zgrupowane w menu rozwijanym ANALIZA.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>&lt;s0&gt;Transform publication year into a date&lt;/s0&gt; - &lt;s1&gt;The publication dates in RIS files can consist of a full date, with days and months, or only the year, or sometimes the publication month and year.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Karolina" changedate="20230327T142529Z" creationid="Karolina" creationdate="20230327T142529Z">
+        <seg>&lt;s0&gt;Transformacja roku publikacji na datę&lt;/s0&gt; - &lt;s1&gt;Daty publikacji w plikach RIS mogą składać się z pełnej daty, z dniami i miesiącami, lub tylko z roku, a czasem z miesiąca i roku publikacji.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>&lt;s0&gt;VARIABLE NAME &lt;/s0&gt;- The first edit box at the top of the dialog box allows you to enter a variable name.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Karolina" changedate="20230327T143206Z" creationid="Karolina" creationdate="20230327T143029Z">
+        <seg>&lt;s0&gt;VARIABLE NAME &lt;/s0&gt;- Pierwsze pole edycyjne w górnej części okna dialogowego umożliwia wprowadzenie nazwy zmiennej.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>&lt;s0&gt;click the &lt;/s0&gt;&lt;s1&gt;Open an existing project &lt;/s1&gt;&lt;s2&gt;button.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Karolina" changedate="20230327T135424Z" creationid="Karolina" creationdate="20230327T135104Z">
+        <seg>&lt;s0&gt;kliknij przycisk &lt;/s0&gt;&lt;s1&gt;Otwieranie istniejącego projektu&lt;/s1&gt;&lt;s2&gt;. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>&lt;s0&gt;click the &lt;/s0&gt;&lt;s1&gt;Re-open a recently opened project&lt;/s1&gt;&lt;s2&gt; button and select its name from the displayed drop-down list.&lt;/s2&gt;</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Karolina" changedate="20230327T134932Z" creationid="Karolina" creationdate="20230327T134932Z">
+        <seg>&lt;s0&gt;kliknij przycisk &lt;/s0&gt;&lt;s1&gt;Otwórz ponownie ostatnio otwarty projekt&lt;/s1&gt;&lt;s2&gt;wybierz jego nazwę z wyświetlonej listy rozwijanej.&lt;/s2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>A Save File dialog box will appear.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Karolina" changedate="20230327T142248Z" creationid="Karolina" creationdate="20230327T142223Z">
+        <seg>Pojawi się okno dialogowe Save File (Zapisz plik).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>A case can contain several documents as well as numerous alphanumeric, numeric, categorical, date or Boolean variables.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Karolina" changedate="20230327T103639Z" creationid="Karolina" creationdate="20230327T103639Z">
+        <seg>Sprawa może zawierać kilka dokumentów, a także liczne zmienne alfanumeryczne, numeryczne, kategoryczne, daty lub zmienne logiczne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>A case is the basic unit of analysis of a project.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Karolina" changedate="20230327T103338Z" creationid="Karolina" creationdate="20230327T103338Z">
+        <seg>Przypadek jest podstawową jednostką analizy projektu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>A dialog box similar to the one below will appear:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Karolina" changedate="20230327T143629Z" creationid="Karolina" creationdate="20230327T143629Z">
+        <seg>Pojawi się okno dialogowe podobne do tego poniżej:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>A document variable may also be created to store notes or comments that are specific to a case.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Karolina" changedate="20230327T142947Z" creationid="Karolina" creationdate="20230327T142947Z">
+        <seg>Zmienna dokumentu może być również utworzona w celu przechowywania notatek lub komentarzy, które są specyficzne dla danej sprawy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>A single dot can also be used to represent a missing value.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Karolina" changedate="20230327T141346Z" creationid="Karolina" creationdate="20230327T141346Z">
+        <seg>Pojedyncza kropka może być również użyta do reprezentowania brakującej wartości.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>A single project can contain up to 2035 variables per case.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Karolina" changedate="20230327T142923Z" creationid="Karolina" creationdate="20230327T142923Z">
+        <seg>Pojedynczy projekt może zawierać do 2035 zmiennych w każdym przypadku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>A variable may contain a document or an image to be manually coded, but can also consist of a numeric value, a date, a Boolean value (true or false), etc.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Karolina" changedate="20230327T142910Z" creationid="Karolina" creationdate="20230327T142910Z">
+        <seg>Zmienna może zawierać dokument lub obraz do ręcznego zakodowania, ale może też składać się z wartości liczbowej, daty, wartości logicznej (prawda lub fałsz) itp.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>ASCII Data Files</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Karolina" changedate="20230327T140844Z" creationid="Karolina" creationdate="20230327T140844Z">
+        <seg>Pliki danych ASCII</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>All invalid scores and all blanks encountered between commas or tabs are treated as missing values.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Karolina" changedate="20230327T141332Z" creationid="Karolina" creationdate="20230327T141332Z">
+        <seg>Wszystkie nieprawidłowe wyniki i wszystkie spacje napotkane pomiędzy przecinkami lub tabulatorami są traktowane jako brakujące wartości.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>All unchecked items will be ignored.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Karolina" changedate="20230327T142519Z" creationid="Karolina" creationdate="20230327T142519Z">
+        <seg>Wszystkie niezaznaczone elementy będą ignorowane.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Another approach is to change the file extension to RIS, and QDA Miner will automatically recognize this file extension and import the references in this file without the need to specify the proper file type.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Karolina" changedate="20230327T142417Z" creationid="Karolina" creationdate="20230327T142417Z">
+        <seg>Innym podejściem jest zmiana rozszerzenia pliku na RIS, a QDA Miner automatycznie rozpozna to rozszerzenie pliku i zaimportuje referencje w tym pliku bez konieczności określania właściwego typu pliku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>As well, the first row should preferably contain the variable names, while the remaining rows should hold the data, one case per row.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Karolina" changedate="20230327T141839Z" creationid="Karolina" creationdate="20230327T141839Z">
+        <seg>Jak również, pierwszy rząd powinien najlepiej zawierać nazwy zmiennych, a pozostałe wiersze powinny zawierać dane, po jednym przypadku w każdym wierszu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Atlas.ti 5.x and 6.x hermeneutic unit</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Karolina" changedate="20230327T140450Z" creationid="Karolina" creationdate="20230327T140450Z">
+        <seg>Jednostka hermeneutyczna Atlas.ti 5.x i 6.x</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Atlas.ti hermeneutic unit</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Karolina" changedate="20230327T142128Z" creationid="Karolina" creationdate="20230327T142128Z">
+        <seg>Atlas.ti jednostka hermeneutyczna</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Blank lines can also be inserted anywhere in the file.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Karolina" changedate="20230327T141406Z" creationid="Karolina" creationdate="20230327T141406Z">
+        <seg>Puste linie mogą być również wstawiane w dowolnym miejscu pliku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>By default, QDA Miner will import just the publication year and store it in an integer variable.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Karolina" changedate="20230327T142537Z" creationid="Karolina" creationdate="20230327T142537Z">
+        <seg>Domyślnie QDA Miner importuje tylko rok publikacji i przechowuje go w zmiennej typu integer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Cells in the first row of the selected range are treated as field names.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Karolina" changedate="20230327T141913Z" creationid="Karolina" creationdate="20230327T141913Z">
+        <seg>Komórki w pierwszym wierszu wybranego zakresu są traktowane jako nazwy pól.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Change the name of the XML file so that it has the same same name as the project file but with an XML file extension (you may need to remove the "hu_" prefix).</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Karolina" changedate="20230327T142256Z" creationid="Karolina" creationdate="20230327T142256Z">
+        <seg>Zmień nazwę pliku XML tak, aby miał taką samą nazwę jak plik projektu, ale z rozszerzeniem pliku XML (może być konieczne usunięcie prefiksu "hu_").</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Click OK to confirm the setting of these values.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Karolina" changedate="20230327T143706Z" creationid="Karolina" creationdate="20230327T143706Z">
+        <seg>Kliknij OK, aby potwierdzić ustawienie tych wartości.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Close Atlas-ti.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Karolina" changedate="20230327T142314Z" creationid="Karolina" creationdate="20230327T142314Z">
+        <seg>Zamknij się Atlas-ti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Color brackets are used to indicate the physical limits of&lt;s1&gt; the coded segment.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Karolina" changedate="20230326T214544Z" creationid="Karolina" creationdate="20230326T214544Z">
+        <seg>Kolorowe nawiasy służą do wskazania fizycznych granic&lt;s1&gt;zakodowanego segmentu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Comma Separated Values</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Karolina" changedate="20230327T140403Z" creationid="Karolina" creationdate="20230327T140403Z">
+        <seg>Wartości rozdzielone przecinkami</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Comments can be inserted anywhere in the file by putting an asterisk (&lt;s0&gt;'&lt;/s0&gt;&lt;s1&gt;*&lt;/s1&gt;&lt;s2&gt;'&lt;/s2&gt;) at the beginning of the line.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Karolina" changedate="20230327T141358Z" creationid="Karolina" creationdate="20230327T141358Z">
+        <seg>Komentarze można wstawiać w dowolnym miejscu pliku, umieszczając na początku linii gwiazdkę (&lt;s0&gt;'&lt;/s0&gt;&lt;s1&gt;*&lt;/s1&gt;&lt;s2&gt;'&lt;/s2&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Create a new project</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Karolina" changedate="20230327T140617Z" creationid="Karolina" creationdate="20230327T140617Z">
+        <seg>Utwórz nowy projekt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Creating a new empty project</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Karolina" changedate="20230326T213815Z" creationid="Karolina" creationdate="20230326T213815Z">
+        <seg>Tworzenie nowego pustego projektu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>Creating an Empty Project</seg>
       </tuv>
-      <tuv lang="PL" changeid="Karolina Kloc" changedate="20230420T222740Z" creationid="Karolina Kloc" creationdate="20230420T222740Z">
-        <seg>Creating an Empty Project</seg>
+      <tuv lang="PL" changeid="Karolina Kloc" changedate="20230420T230256Z" creationid="Karolina Kloc" creationdate="20230420T222740Z">
+        <seg>Tworzenie pustego projektu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Creating an empty project</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Karolina" changedate="20230327T142645Z" creationid="Karolina" creationdate="20230327T142639Z">
+        <seg>Tworzenie pustego projektu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Database Files</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Karolina" changedate="20230327T141952Z" creationid="Karolina" creationdate="20230327T141952Z">
+        <seg>Pliki baz danych</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Documents are stored in Rich-Text Format and support font and paragraph formatting, graphics and tables.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Karolina" changedate="20230327T134052Z" creationid="Karolina" creationdate="20230327T134052Z">
+        <seg>Dokumenty są przechowywane w formacie Rich-Text Format (RTF) i obsługują formatowanie czcionek i akapitów, grafiki i tabel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Documents may be edited at any time without affecting the existing coding.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Karolina" changedate="20230327T134134Z" creationid="Karolina" creationdate="20230327T134134Z">
+        <seg>Dokumenty mogą być w każdej chwili edytowane bez wpływu na istniejący już kod.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Each line must contain data for one case; variables must be in the same order for all cases.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Karolina" changedate="20230327T141322Z" creationid="Karolina" creationdate="20230327T141322Z">
+        <seg>Każdy wiersz musi zawierać dane dla jednego przypadku; zmienne muszą być w tej samej kolejności dla wszystkich przypadków.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Each variable name must be unique (within that project file).</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Karolina" changedate="20230327T143037Z" creationid="Karolina" creationdate="20230327T143037Z">
+        <seg>Każda nazwa zmiennej musi być unikalna (w ramach danego pliku projektu).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Enter a description (optional).</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Karolina" changedate="20230327T143839Z" creationid="Karolina" creationdate="20230327T143827Z">
+        <seg>Wprowadź opis (opcjonalne).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Enter a unique variable name.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Karolina" changedate="20230327T143818Z" creationid="Karolina" creationdate="20230327T143818Z">
+        <seg>Wprowadź unikalną nazwę zmiennej.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Ethnograph 5.x project file (document, codebook and coding only)</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Karolina" changedate="20230327T140503Z" creationid="Karolina" creationdate="20230327T140503Z">
+        <seg>Plik projektu Ethnograph 5.x (tylko dokument, książka kodowa i kodowanie)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Every line must end with a carriage return.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Karolina" changedate="20230327T141100Z" creationid="Karolina" creationdate="20230327T141031Z">
+        <seg>Każda linia musi kończyć się znakiem powrotu do wierszy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Expand</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Karolina" changedate="20230326T214734Z" creationid="Karolina" creationdate="20230326T214734Z">
+        <seg>Rozwiń</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Floating-point numbers are stored in the data file using double precision values (at least 15 significant digits).</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Karolina" changedate="20230327T143455Z" creationid="Karolina" creationdate="20230327T143455Z">
+        <seg>Liczby zmiennoprzecinkowe są przechowywane w pliku danych przy użyciu wartości podwójnej precyzji (co najmniej 15 cyfr znaczących).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>For example, all operations relevant to the CASES windows are grouped under the CASES drop-down menu, while all commands relevant to the codebook currently displayed are located under the CODES drop-down menu.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Karolina" changedate="20230327T102303Z" creationid="Karolina" creationdate="20230327T102303Z">
+        <seg>Na przykład wszystkie operacje istotne dla okien CASES są zgrupowane pod rozwijanym menu CASES, natomiast wszystkie polecenia istotne dla aktualnie wyświetlanej książki kodowej znajdują się pod rozwijanym menu CODES.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>For example, if you want to analyze transcripts of in-depth interviews of numerous individuals, you may end up creating a project file where each case contains information associated with a single interviewee.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Karolina" changedate="20230327T103728Z" creationid="Karolina" creationdate="20230327T103705Z">
+        <seg>Na przykład, jeśli chcesz analizować transkrypcje wywiadów pogłębionych z wieloma osobami, możesz skończyć tworząc plik projektu, w którym każdy przypadek zawiera informacje związane z jednym rozmówcą.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>For example, you can assess how the content of an interview is related to the interviewee's gender or age, or how it relates to specific answers to a close-ended question.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Karolina" changedate="20230327T103836Z" creationid="Karolina" creationdate="20230327T103836Z">
+        <seg>Na przykład, można ocenić, jak treść wywiadu jest związana z płcią lub wiekiem respondenta, lub jak odnosi się do konkretnych odpowiedzi na pytanie zamknięte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>For example, you may choose to use this variable type to identify the gender of the interviewee ("male" or "female") or its group membership ("manager", "employee", "client", etc.).</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Karolina" changedate="20230327T143526Z" creationid="Karolina" creationdate="20230327T143526Z">
+        <seg>Na przykład, możesz zdecydować się na użycie tego typu zmiennej do określenia płci rozmówcy ("mężczyzna" lub "kobieta") lub jego przynależności do grupy ("kierownik", "pracownik", "klient" itp.).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Formatting Spreadsheet Data</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Karolina" changedate="20230327T141815Z" creationid="Karolina" creationdate="20230327T141815Z">
+        <seg>Formatowanie danych w arkuszu kalkulacyjnym</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>From top to bottom:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Karolina" changedate="20230326T214215Z" creationid="Karolina" creationdate="20230326T214215Z">
+        <seg>Z góry do dołu:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Graphics and tables may also be inserted in the document.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Karolina" changedate="20230327T143322Z" creationid="Karolina" creationdate="20230327T143322Z">
+        <seg>Do dokumentu można również wstawić grafikę i tabele.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Help &amp; Manual</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Karolina" changedate="20230326T213403Z" creationid="Karolina" creationdate="20230326T213403Z">
+        <seg>Pomoc i instrukcja</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>However, the length of alphanumeric fields should not exceed 256 characters and memo fields are not supported.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Karolina" changedate="20230327T142021Z" creationid="Karolina" creationdate="20230327T142021Z">
+        <seg>Długość pól alfanumerycznych nie powinna jednak przekraczać 256 znaków, a pola memo nie są obsługiwane.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>INTRODUCTION</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Karolina" changedate="20230326T213641Z" creationid="Karolina" creationdate="20230326T213641Z">
+        <seg>WSTĘP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>If a project with an identical name already exists, you will be asked to confirm the overwriting of the older project.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Karolina" changedate="20230327T144056Z" creationid="Karolina" creationdate="20230327T144056Z">
+        <seg>Jeśli projekt o identycznej nazwie już istnieje, zostaniesz poproszony o potwierdzenie nadpisania starszego projektu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>If no variable name is encountered, QDA Miner will automatically provide one for each column in the defined range.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Karolina" changedate="20230327T141942Z" creationid="Karolina" creationdate="20230327T141942Z">
+        <seg>Jeśli nie napotkamy nazwy zmiennej, QDA Miner automatycznie poda ją dla każdej kolumny w zdefiniowanym zakresie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>If only the year is specified, QDA Miner will set the day and month to January 1.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Karolina" changedate="20230327T142553Z" creationid="Karolina" creationdate="20230327T142553Z">
+        <seg>Jeśli podany jest tylko rok, QDA Miner ustawi dzień i miesiąc na 1 stycznia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>If the current variable uses the same values as another existing variable, you may also establish a link to this other variable so that they will share the same list of values.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Karolina" changedate="20230327T143658Z" creationid="Karolina" creationdate="20230327T143658Z">
+        <seg>Jeśli bieżąca zmienna używa tych samych wartości co inna istniejąca zmienna, możesz również ustanowić powiązanie z tą inną zmienną, dzięki czemu będą one współdzielić tę samą listę wartości.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>If the publication date consists of a month and a year only, then QDA Miner will set the day to the first day of the month.&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Karolina" changedate="20230327T142607Z" creationid="Karolina" creationdate="20230327T142607Z">
+        <seg>Jeśli data publikacji składa się tylko z miesiąca i roku, to QDA Miner ustawi dzień na pierwszy dzień miesiąca.&lt;/s1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>If you do have such kind of data, you may use the exporting capabilities of your database program to create a data file more compatible with QDA Miner (such as a FoxPro 2.x data file or a tab delimited text file).</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Karolina" changedate="20230327T142029Z" creationid="Karolina" creationdate="20230327T142029Z">
+        <seg>Jeżeli posiadamy tego rodzaju dane, możemy skorzystać z możliwości eksportu programu bazodanowego, aby stworzyć plik danych bardziej kompatybilny z QDA Miner (np. plik danych FoxPro 2.x lub plik tekstowy z delimitacją tabulacji).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>If you set the Range Name list box to ALL, the program attempts to read the whole page.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Karolina" changedate="20230327T141807Z" creationid="Karolina" creationdate="20230327T141807Z">
+        <seg>Jeśli ustawisz pole listy Range Name (Nazwa zakresu) na ALL (WSZYSTKIE), program próbuje odczytać całą stronę.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>ImportRIS</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Karolina" changedate="20230327T142452Z" creationid="Karolina" creationdate="20230327T142452Z">
+        <seg>Importuj RIS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Importing an Existing Data File</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Karolina" changedate="20230327T140033Z" creationid="Karolina" creationdate="20230327T140033Z">
+        <seg>Importowanie Istniejącego Pliku Danych</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Importing an existing data file</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Karolina" changedate="20230326T213826Z" creationid="Karolina" creationdate="20230326T213826Z">
+        <seg>Importowanie istniejącego pliku danych</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Importing an existing data file,Importing Excel files,Importing MS Access files</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Karolina" changedate="20230327T135925Z" creationid="Karolina" creationdate="20230327T135925Z">
+        <seg>Importowanie istniejącego pliku danych, Importowanie plików Excel, Importowanie plików MC Access</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>In Atlas-ti, open the project you want to import into QDA Miner.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Karolina" changedate="20230327T142138Z" creationid="Karolina" creationdate="20230327T142138Z">
+        <seg>W Atlas-ti otwórz projekt, który chcesz zaimportować do QDA Miner.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>In spreadsheet programs, you can enter both numeric and alphanumeric data in the cells of a data grid.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Karolina" changedate="20230327T141657Z" creationid="Karolina" creationdate="20230327T141657Z">
+        <seg>W programach arkuszy kalkulacyjnych do komórek siatki danych można wprowadzać zarówno dane liczbowe, jak i alfanumeryczne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>In the Variable Definitions dialog box (see above), you can define various attributes for these new variables, such as their name and whether they will contain numeric, alphanumeric values, or dates.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Karolina" changedate="20230327T143003Z" creationid="Karolina" creationdate="20230327T143003Z">
+        <seg>W oknie dialogowym Definicje zmiennych (patrz wyżej) można zdefiniować różne atrybuty dla tych nowych zmiennych, takie jak ich nazwa i czy będą zawierać wartości numeryczne, alfanumeryczne lub daty.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Introduction to QDA Miner</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Karolina" changedate="20230326T213653Z" creationid="Karolina" creationdate="20230326T213653Z">
+        <seg>Wprowadzenie do QDA Miner</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>It also gives access to a variety of retrieval and analysis tools.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Karolina" changedate="20230326T214114Z" creationid="Karolina" creationdate="20230326T214114Z">
+        <seg>Daje również dostęp do wielu narzędzi wyszukiwania i analizy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>It is possible to create several document and image variables for each case.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Karolina" changedate="20230327T142930Z" creationid="Karolina" creationdate="20230327T142930Z">
+        <seg>Możliwe jest stworzenie kilku zmiennych dokumentów i obrazów dla każdego przypadku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>It typically represents an individual, an organization, or a group.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Karolina" changedate="20230327T103352Z" creationid="Karolina" creationdate="20230327T103352Z">
+        <seg>Zazwyczaj reprezentuje on jednostkę, organizację lub grupę.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Locate and select your project (a QDA Miner project is stored with a .WPJ file extension).</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Karolina" changedate="20230327T135314Z" creationid="Karolina" creationdate="20230327T135314Z">
+        <seg>Zlokalizuj i wybierz swój projekt (projekt QDA Miner jest przechowywany z rozszerzeniem pliku .WPJ).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Longer strings are truncated at ten characters.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Karolina" changedate="20230327T141248Z" creationid="Karolina" creationdate="20230327T141248Z">
+        <seg>Dłuższe ciągi są obcinane do dziesięciu znaków.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>MS Access Data Files</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Karolina" changedate="20230327T142037Z" creationid="Karolina" creationdate="20230327T142037Z">
+        <seg>Pliki danych MS Access</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Maximize</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Karolina" changedate="20230326T214726Z" creationid="Karolina" creationdate="20230326T214706Z">
+        <seg>Powiększ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Minimize</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Karolina" changedate="20230326T214710Z" creationid="Karolina" creationdate="20230326T214710Z">
+        <seg>Zmniejsz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Move back to the previous case&lt;br0&gt;</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Karolina" changedate="20230327T103027Z" creationid="Karolina" creationdate="20230327T103019Z">
+        <seg>Powrót do poprzedniego przypadku&lt;br0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Move forward to the next case&lt;br0&gt;</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Karolina" changedate="20230327T103037Z" creationid="Karolina" creationdate="20230327T103037Z">
+        <seg>Przejdź do następnego przypadku&lt;br0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Move to the first case of the project.&lt;br0&gt;</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Karolina" changedate="20230327T102955Z" creationid="Karolina" creationdate="20230327T102955Z">
+        <seg>Przejście do pierwszego przypadku projektu&lt;br0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Move to the last case of the project.&lt;br0&gt;</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Karolina" changedate="20230327T103109Z" creationid="Karolina" creationdate="20230327T103109Z">
+        <seg>Przejdź do ostatniego przypadku w projekcie.&lt;br0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Navigating through cases</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Karolina" changedate="20230327T102406Z" creationid="Karolina" creationdate="20230327T102406Z">
+        <seg>Poruszanie się po przypadkach</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Note: this list may later be modified to add new values or edit existing ones.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Karolina" changedate="20230327T143715Z" creationid="Karolina" creationdate="20230327T143715Z">
+        <seg>Uwaga: lista ta może być później modyfikowana w celu dodania nowych wartości lub edycji istniejących.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Numerous file formats may be directly imported into document variables, such as Windows bitmaps (*.BMP), Windows Meta Files (*.WMF), or Enhanced Meta Files (*.EMF), Compuserve Graphic Interface (*.GIF), Portable Network Graphics (*.PNG) or JPEG files (*.JPG or *.JPEG) (see &lt;a1&gt;Importing a Document or an Image into the Current Project&lt;/a1&gt;).</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Karolina" changedate="20230327T143431Z" creationid="Karolina" creationdate="20230327T143431Z">
+        <seg>Liczne formaty plików mogą być bezpośrednio importowane do zmiennych dokumentów, takich jak zwykłe pliki ASCII (*.TXT), pliki Rich Text (*.RTF), dokumenty MS Word (*.DOC), HTML (*.HTM lub *.HTML) i dokumenty WordPerfect (*.WPD) (patrz &lt;a1&gt;Importowanie dokumentu lub Ima&lt;/a1&gt;&lt;a2&gt;ge do Bieżącego Projektu&lt;/a2&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Numerous file formats may be directly imported into document variables, such as plain ASCII files (*.TXT), Rich Text files (*.RTF), MS Word documents (*.DOC), HTML (*.HTM or *.HTML) and WordPerfect documents (*.WPD) (see &lt;a1&gt;Importing a Document or an Ima&lt;/a1&gt;&lt;a2&gt;ge into the Current Project&lt;/a2&gt;).</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Karolina" changedate="20230327T143334Z" creationid="Karolina" creationdate="20230327T143334Z">
+        <seg>Liczne formaty plików mogą być bezpośrednio importowane do zmiennych dokumentów, takich jak zwykłe pliki ASCII (*.TXT), pliki Rich Text (*.RTF), dokumenty MS Word (*.DOC), HTML (*.HTM lub *.HTML) i dokumenty WordPerfect (*.WPD) (patrz &lt;a1&gt;Importowanie dokumentu lub Ima&lt;/a1&gt;&lt;a2&gt;ge do bieżącego projektu&lt;/a2&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Once a file has been selected for importation, QDA Miner will display a dialog box similar to this one:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Karolina" changedate="20230327T142430Z" creationid="Karolina" creationdate="20230327T142430Z">
+        <seg>Po wybraniu pliku do importu, QDA Miner wyświetli okno dialogowe podobne do tego:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Once the table has been selected, click the IMPORT button to import the data file.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Karolina" changedate="20230327T142120Z" creationid="Karolina" creationdate="20230327T142058Z">
+        <seg>Po wybraniu tabeli kliknij przycisk IMPORT (IMPORTUJ), aby zaimportować plik z danymi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>One of the unique features of QDA Miner is its ability to explore relationships between any one of these properties and codes manually assigned to documents.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Karolina" changedate="20230327T103823Z" creationid="Karolina" creationdate="20230327T103823Z">
+        <seg>Jedną z unikalnych cech QDA Miner jest możliwość badania zależności pomiędzy dowolną z tych właściwości a kodami ręcznie przypisanymi do dokumentów.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>One or more document variables may be created to contain transcripts of those interviews.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Karolina" changedate="20230327T103719Z" creationid="Karolina" creationdate="20230327T103719Z">
+        <seg>Można utworzyć jedną lub więcej zmiennych dokumentów zawierających transkrypcje tych wywiadów.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Open QDA Miner, run the QDA Miner importation routine and select either the .HPR5 or .HPR6 file or the newly created .XML file.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Karolina" changedate="20230327T142327Z" creationid="Karolina" creationdate="20230327T142327Z">
+        <seg>Otwórz QDA Miner, uruchom procedurę importu QDA Miner i wybierz plik .HPR5 lub .HPR6 albo nowo utworzony plik .XML.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Opening a Project When the QDA Miner Program is Already Running</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Karolina" changedate="20230327T135736Z" creationid="Karolina" creationdate="20230327T135736Z">
+        <seg>Otwieranie projektu, gdy program QDA Miner jest już uruchomiony</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Opening a Project from Windows Explorer</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Karolina" changedate="20230327T135548Z" creationid="Karolina" creationdate="20230327T135548Z">
+        <seg>Otwieranie projektu z programu Windows Explorer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Opening a Project from the Introductory Screen</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Karolina" changedate="20230327T134559Z" creationid="Karolina" creationdate="20230327T134559Z">
+        <seg>Otwieranie projektu z ekranu początkowego</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Opening an Existing Project</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Karolina" changedate="20230327T134547Z" creationid="Karolina" creationdate="20230327T134547Z">
+        <seg>Otwieranie istniejącego projektu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Opening an existing project</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Karolina" changedate="20230326T213755Z" creationid="Karolina" creationdate="20230326T213755Z">
+        <seg>Otwieranie istniejącego projektu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Operations associated with the main four windows of the working environment are grouped under menus with a corresponding name.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Karolina" changedate="20230327T102253Z" creationid="Karolina" creationdate="20230327T102253Z">
+        <seg>Operacje związane z głównymi czterema oknami środowiska pracy są zgrupowane w menu o odpowiedniej nazwie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Project Structure</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Karolina" changedate="20230327T103155Z" creationid="Karolina" creationdate="20230327T103155Z">
+        <seg>Struktura projektu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Project operations</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Karolina" changedate="20230326T213727Z" creationid="Karolina" creationdate="20230326T213727Z">
+        <seg>Działania związane z projektem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>ProjectIcon</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Karolina" changedate="20230327T135640Z" creationid="Karolina" creationdate="20230327T135640Z">
+        <seg>Ikonka projektu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Punctuation marks, blank spaces, accentuated and other special characters are not permitted.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Karolina" changedate="20230327T143053Z" creationid="Karolina" creationdate="20230327T143053Z">
+        <seg>Niedopuszczalne są znaki interpunkcyjne, puste miejsca, znaki akcentowane i inne znaki specjalne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>QDA Miner Lite can import and export documents, data and results in numerous file formats (MS Word, WordPerfect, RTF, HTML, XML, PDF documents, MS Access, Excel, SPSS, Paradox, dBase, QSR N6, NVivo, Atlas.ti, HyperResearch, Ethnograph, Transana, Transcriber, etc.).</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Karolina" changedate="20230327T134216Z" creationid="Karolina" creationdate="20230327T134216Z">
+        <seg>QDA Miner Lite może importować i eksportować dokumenty, dane i wyniki w wielu formatach plików (MS Word, WordPerfect, RTF, HTML, XML, dokumenty PDF, MS Access, Excel, SPSS, Paradox, dBase, QSR N6, NVivo, Atlas.ti, HyperResearch, Ethnograph, Transana, Transcriber, itp.).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>QDA Miner Lite is a free easy-to-use qualitative data analysis software package for coding textual and graphical data, annotating, retrieving and reviewing coded data, documents and images.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Karolina" changedate="20230327T103926Z" creationid="Karolina" creationdate="20230327T103926Z">
+        <seg>QDA Miner Lite to darmowy, łatwy w użyciu pakiet oprogramowania do analizy danych jakościowych, służący do kodowania danych tekstowych i graficznych, adnotacji, wyszukiwania i przeglądania zakodowanych danych, dokumentów i obrazów.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>QDA Miner allows you to directly import data files from spreadsheet and database applications, as well as from plain ASCII data files (comma or tab delimited text).</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Karolina" changedate="20230327T140053Z" creationid="Karolina" creationdate="20230327T140053Z">
+        <seg>QDA Miner pozwala na bezpośredni import plików danych z arkuszy kalkulacyjnych i aplikacji bazodanowych, jak również ze zwykłych plików danych ASCII (tekst delimitowany przecinkami lub tabulatorami).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>QDA Miner can import dBase and Paradox data files.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Karolina" changedate="20230327T142011Z" creationid="Karolina" creationdate="20230327T142011Z">
+        <seg>QDA Miner może importować pliki danych dBase i Paradox.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>QDA Miner can import data created by reference management software (like EndNote, Reference Manager, ProCite, Zotero), as well as many digital libraries (such as IEEE Xplore, ScienceDirect, SpringerLink).</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Karolina" changedate="20230327T142341Z" creationid="Karolina" creationdate="20230327T142341Z">
+        <seg>QDA Miner może importować dane utworzone przez oprogramowanie do zarządzania referencjami (jak EndNote, Reference Manager, ProCite, Zotero), a także wiele bibliotek cyfrowych (jak IEEE Xplore, ScienceDirect, SpringerLink).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>QDA Miner can import spreadsheet files produced by EXCEL, LOTUS 1-2-3 (v1.1 to v5.0) and QUATTRO PRO (v1.0 to v6.0).</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Karolina" changedate="20230327T141712Z" creationid="Karolina" creationdate="20230327T141712Z">
+        <seg>QDA Miner może importować pliki arkuszy kalkulacyjnych stworzonych przez EXCEL, LOTUS 1-2-3 (v1.1 do v5.0) i QUATTRO PRO (v1.0 do v6.0).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>QDA Miner can later be instructed to search and analyze specific document or image variables or in all documents.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Karolina" changedate="20230327T142955Z" creationid="Karolina" creationdate="20230327T142955Z">
+        <seg>QDA Miner może być później poinstruowany, aby wyszukiwał i analizował określone zmienne dokumentu lub obrazu albo we wszystkich dokumentach.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>QDA Miner keeps all documents, coding schemes, codes, and notes in a set of files called a "project".</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Karolina" changedate="20230327T103314Z" creationid="Karolina" creationdate="20230327T103314Z">
+        <seg>QDA Miner przechowuje wszystkie dokumenty, schematy kodowania, kody i notatki w zestawie plików zwanym „projektem”.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>QDA Miner keeps track of the ten most recently used project files.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Karolina" changedate="20230327T134801Z" creationid="Karolina" creationdate="20230327T134801Z">
+        <seg>QDA Miner śledzi dziesięć ostatnio używanych plików projektowych.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>QDA Miner projects consist of multiple cases.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Karolina" changedate="20230327T103330Z" creationid="Karolina" creationdate="20230327T103330Z">
+        <seg>Projekty QDA Miner składają się z wielu przypadków (cases).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>QDA Miner stores data files in a folder named Projects.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Karolina" changedate="20230327T134620Z" creationid="Karolina" creationdate="20230327T134620Z">
+        <seg>QDA Miner przechowuje pliki danych w folderze o nazwie Projekty (Projects).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>QDA Miner stores text in this data type using Rich Text Format (RTF).</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Karolina" changedate="20230327T143303Z" creationid="Karolina" creationdate="20230327T143303Z">
+        <seg>QDA Miner przechowuje tekst w tym typie danych za pomocą Rich Text Format (RTF).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>QDA Miner supports the following types:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Karolina" changedate="20230327T143233Z" creationid="Karolina" creationdate="20230327T143233Z">
+        <seg>QDA Miner obsługuje następujące typy:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>QDA Miner will automatically determine the most appropriate format based on the data that it finds in the worksheet columns.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Karolina" changedate="20230327T141850Z" creationid="Karolina" creationdate="20230327T141850Z">
+        <seg>QDA Miner automatycznie określi najbardziej odpowiedni format na podstawie danych, które znajdzie w kolumnach arkusza.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>QDA Miner will read up to 500 numeric and alphanumeric variables from a plain ASCII file (text file).</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Karolina" changedate="20230327T140904Z" creationid="Karolina" creationdate="20230327T140904Z">
+        <seg>QDA Miner odczyta do 500 zmiennych numerycznych i alfanumerycznych ze zwykłego pliku ASCII (plik tekstowy).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>QSR N6 project file</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Karolina" changedate="20230327T140440Z" creationid="Karolina" creationdate="20230327T140440Z">
+        <seg>Plik projektu QSR N6</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>RIS files are plain-text files and have by default a TXT file extension.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Karolina" changedate="20230327T142358Z" creationid="Karolina" creationdate="20230327T142358Z">
+        <seg>Pliki RIS są plikami tekstowymi i mają domyślnie rozszerzenie TXT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Reference Information System (RIS) data files</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Karolina" changedate="20230327T140523Z" creationid="Karolina" creationdate="20230327T140523Z">
+        <seg>Pliki danych systemu informacji referencyjnej (RIS)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Run the&lt;s0&gt; XML | EXPORT HU to XML &lt;/s0&gt;command from the &lt;s1&gt;TOOLS&lt;/s1&gt; menu.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Karolina" changedate="20230327T142153Z" creationid="Karolina" creationdate="20230327T142153Z">
+        <seg>Uruchomić polecenie&lt;s0&gt; XML | EXPORT HU do XML &lt;/s0&gt; z menu &lt;s1&gt;TOOLS&lt;/s1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Save this file in the same folder as the original .HPR5 &lt;s0&gt;or .HPR6&lt;/s0&gt; file.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Karolina" changedate="20230327T142306Z" creationid="Karolina" creationdate="20230327T142306Z">
+        <seg>Zapisz ten plik w tym samym folderze co oryginalny plik .HPR5 &lt;s0&gt;lub .HPR6&lt;/s0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Scroll down to get a detailed description.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Karolina" changedate="20230326T214137Z" creationid="Karolina" creationdate="20230326T214137Z">
+        <seg>Przewiń w dół, aby uzyskać szczegółowy opis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Select &lt;s0&gt;FILE&lt;/s0&gt; as the output destination and click &lt;s1&gt;OK&lt;/s1&gt;.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Karolina" changedate="20230327T142212Z" creationid="Karolina" creationdate="20230327T142212Z">
+        <seg>Wybierz &lt;s0&gt;FILE&lt;/s0&gt; jako miejsce docelowe wyjścia i kliknij &lt;s1&gt;OK&lt;/s1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Select the &lt;s0&gt;Create a blank project&lt;/s0&gt; button.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Karolina" changedate="20230327T142803Z" creationid="Karolina" creationdate="20230327T142803Z">
+        <seg>Wybierz przycisk &lt;s0&gt;Utwórz pusty projekt&lt;/s0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Select the NEW command from the PROJECT menu.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Karolina" changedate="20230327T140555Z" creationid="Karolina" creationdate="20230327T140539Z">
+        <seg>Z menu PROJEKT (PROJECT) wybierz polecenie NOWY (NEW).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Select the OPEN command from the FILE menu.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Karolina" changedate="20230327T135655Z" creationid="Karolina" creationdate="20230327T135655Z">
+        <seg>Z menu FILE wybierz polecenie OPEN.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Select the REOPEN command from the FILE menu</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Karolina" changedate="20230327T135453Z" creationid="Karolina" creationdate="20230327T135453Z">
+        <seg>Wybierz polecenie REOPEN z menu FILE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Select the data type for this variable.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Karolina" changedate="20230327T143846Z" creationid="Karolina" creationdate="20230327T143846Z">
+        <seg>Wybierz typ danych dla tej zmiennej.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Select the file format using the &lt;s0&gt;List File of Type&lt;/s0&gt; drop-down list.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Karolina" changedate="20230327T140715Z" creationid="Karolina" creationdate="20230327T140715Z">
+        <seg>Wybierz format pliku, korzystając z listy rozwijanej &lt;s0&gt;Lista plików typu&lt;/s0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Select the file you want to import and click OK.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Karolina" changedate="20230327T140722Z" creationid="Karolina" creationdate="20230327T140722Z">
+        <seg>Wybierz plik, który chcesz zaimportować i kliknij OK.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Select the row containing the variable you want to move.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Karolina" changedate="20230327T144004Z" creationid="Karolina" creationdate="20230327T144004Z">
+        <seg>Zaznacz wiersz zawierający zmienną, którą chcesz przenieść.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Select the row containing the variable you want to remove.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Karolina" changedate="20230327T143930Z" creationid="Karolina" creationdate="20230327T143930Z">
+        <seg>Zaznacz wiersz zawierający zmienną, którą chcesz usunąć.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Selecting this option will join both numbers with a hyphen character and store those in a single string variable.&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Karolina" changedate="20230327T142623Z" creationid="Karolina" creationdate="20230327T142623Z">
+        <seg>Wybranie tej opcji spowoduje połączenie obu liczb znakiem myślnika i zapisanie ich w jednej zmiennej łańcuchowej.&lt;/s1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Set the option associated with the chosen data type (see above).</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Karolina" changedate="20230327T143856Z" creationid="Karolina" creationdate="20230327T143856Z">
+        <seg>Ustaw opcję związaną z wybranym typem danych (patrz wyżej).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Structure of projects</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Karolina" changedate="20230326T213707Z" creationid="Karolina" creationdate="20230326T213707Z">
+        <seg>Struktura projektów</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Tab Separated Values</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Karolina" changedate="20230327T140412Z" creationid="Karolina" creationdate="20230327T140412Z">
+        <seg>Wartości rozdzielone tabulatorami</seg>
       </tuv>
     </tu>
     <tu>
@@ -18,6 +1250,742 @@
       </tuv>
       <tuv lang="PL" changeid="Karolina Kloc" changedate="20230420T222953Z" creationid="Karolina Kloc" creationdate="20230420T222953Z">
         <seg>Table of Contents</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Table of content</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Karolina" changedate="20230326T213504Z" creationid="Karolina" creationdate="20230326T213504Z">
+        <seg>Spis treści</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>The "folded" window may then be restored by clicking the &lt;/s6&gt;&lt;i7&gt;&lt;s8&gt; button.&lt;/s8&gt;</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Karolina" changedate="20230327T102142Z" creationid="Karolina" creationdate="20230327T102142Z">
+        <seg>„Zwinięte" okno można następnie przywrócić klikając&lt;/s6&gt;&lt;i7&gt;&lt;s8&gt;przycisk.&lt;/s8&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>The &lt;/s2&gt;&lt;s3&gt;File&lt;/s3&gt;&lt;s4&gt; dialog box will appear.&lt;/s4&gt;</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Karolina" changedate="20230327T135138Z" creationid="Karolina" creationdate="20230327T135138Z">
+        <seg>Pojawi się okno dialogowe &lt;/s2&gt;&lt;s3&gt;File (Plik)&lt;/s3&gt;&lt;s4&gt;.&lt;/s4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>The &lt;s1&gt;Variable Definitions&lt;/s1&gt; dialog box will appear.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Karolina" changedate="20230327T142814Z" creationid="Karolina" creationdate="20230327T142814Z">
+        <seg>Pojawi się okno dialogowe &lt;s1&gt;Definicje zmiennych&lt;/s1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>The CASES window, which contains the list of available cases in the project.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Karolina" changedate="20230326T214300Z" creationid="Karolina" creationdate="20230326T214229Z">
+        <seg>Okno CASES, zawiera listę dostępnych w projekcie spraw do rozwiązania (cases).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>The CODES window, located in the lower left corner of the screen, which contains all codes currently defined in the codebook.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Karolina" changedate="20230326T214357Z" creationid="Karolina" creationdate="20230326T214357Z">
+        <seg>Okno CODES (kody), znajdujące się w lewym dolnym rogu ekranu, zawierające wszystkie kody aktualnie zdefiniowane w książce kodowej.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>The File dialog box will appear.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Karolina" changedate="20230327T135820Z" creationid="Karolina" creationdate="20230327T135820Z">
+        <seg>Pojawi się okno dialogowe File (Plik)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>The Main Menu</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Karolina" changedate="20230327T102150Z" creationid="Karolina" creationdate="20230327T102150Z">
+        <seg>Menu główne</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>The Projects folder is located in the QDA Miner program folder.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Karolina" changedate="20230327T134630Z" creationid="Karolina" creationdate="20230327T134630Z">
+        <seg>Folder Projects znajduje się w folderze programu QDA Miner.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>The QDA Miner desktop consists of a menu bar at the top and four windows.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Karolina" changedate="20230326T214149Z" creationid="Karolina" creationdate="20230326T214149Z">
+        <seg>Pulpit QDA Miner składa się z paska menu u góry i czterech okien.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>The QDA Miner working environment provides numerous tools to manage, view, edit, and code documents.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Karolina" changedate="20230326T214049Z" creationid="Karolina" creationdate="20230326T214049Z">
+        <seg>Środowisko pracy QDA Miner dostarcza wielu narzędzi do zarządzania, przeglądania, edycji i kodowania dokumentów.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>The VARIABLES window, which displays and allows editing of values for any variable associated with the currently active case.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Karolina" changedate="20230326T214339Z" creationid="Karolina" creationdate="20230326T214339Z">
+        <seg>Okno VARIABLES, które wyświetla i umożliwia edycję wartości dla dowolnej zmiennej związanej z aktualnie aktywną sprawą.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>The Working Environment</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Karolina" changedate="20230326T214032Z" creationid="Karolina" creationdate="20230326T214032Z">
+        <seg>Środowisko pracy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>The ability to store many documents per case is especially useful when the project involves a set of several document types.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Karolina" changedate="20230327T142938Z" creationid="Karolina" creationdate="20230327T142938Z">
+        <seg>Możliwość przechowywania wielu dokumentów w jednej sprawie jest szczególnie przydatna, gdy projekt obejmuje zestaw kilku typów dokumentów.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>The display and data entry format used for dates is based on the Windows date setting.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Karolina" changedate="20230327T143737Z" creationid="Karolina" creationdate="20230327T143737Z">
+        <seg>Format wyświetlania i wprowadzania danych używany dla dat jest oparty na ustawieniu daty w systemie Windows.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>The file must have the following format:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Karolina" changedate="20230327T141022Z" creationid="Karolina" creationdate="20230327T141022Z">
+        <seg>Plik musi mieć następujący format:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>The first line must include the variable names, separated by spaces, tabs and/or commas.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Karolina" changedate="20230327T141129Z" creationid="Karolina" creationdate="20230327T141129Z">
+        <seg>Pierwsza linia musi zawierać nazwy zmiennych, oddzielone spacjami, tabami i/lub przecinkami.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>The first step involved in creating a new project file is to define the initial structure of the project file.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Karolina" changedate="20230327T142838Z" creationid="Karolina" creationdate="20230327T142838Z">
+        <seg>Pierwszym krokiem związanym z tworzeniem nowego pliku projektu jest określenie początkowej struktury pliku projektu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>The first three windows are located on the left side of the screen.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Karolina" changedate="20230326T214200Z" creationid="Karolina" creationdate="20230326T214200Z">
+        <seg>Pierwsze trzy okna znajdują się po lewej stronie ekranu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>The following dialog box will appear:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Karolina" changedate="20230327T140606Z" creationid="Karolina" creationdate="20230327T140606Z">
+        <seg>Pojawi się następujące okno dialogowe:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>The following importation options are available:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Karolina" changedate="20230327T142459Z" creationid="Karolina" creationdate="20230327T142459Z">
+        <seg>Dostępne są następujące opcje importu:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>The maximum variable name length is ten characters.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Karolina" changedate="20230327T143103Z" creationid="Karolina" creationdate="20230327T143103Z">
+        <seg>Maksymalna długość nazwy zmiennej wynosi dziesięć znaków.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>The number of cases in a single project is limited by disk space up to a maximum of 4 to 8 gigabytes.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Karolina" changedate="20230327T103814Z" creationid="Karolina" creationdate="20230327T103814Z">
+        <seg>Liczba przypadków w jednym projekcie jest ograniczona przestrzenią dyskową do maksymalnie 4 do 8 gigabajtów.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>The option is used exclusively to control how numeric values are displayed in the Variables grid and in other locations and does not affect the internal precision of the variable.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Karolina" changedate="20230327T143507Z" creationid="Karolina" creationdate="20230327T143507Z">
+        <seg>Opcja służy wyłącznie do kontroli sposobu wyświetlania wartości numerycznych w siatce Variables oraz w innych miejscach i nie wpływa na wewnętrzną precyzję zmiennej.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>The program can manage complex projects involving large numbers of documents combined with numerical and categorical information.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Karolina" changedate="20230327T103935Z" creationid="Karolina" creationdate="20230327T103935Z">
+        <seg>Program może zarządzać złożonymi projektami obejmującymi dużą liczbę dokumentów połączonych z informacjami numerycznymi i kategorycznymi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>The program can read data stored in the following file formats:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Karolina" changedate="20230327T140105Z" creationid="Karolina" creationdate="20230327T140105Z">
+        <seg>Program może odczytywać dane zapisane w następujących formatach plików:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>The remaining lines must include alphanumeric or numeric scores separated by spaces, tabs and/or commas.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Karolina" changedate="20230327T141306Z" creationid="Karolina" creationdate="20230327T141306Z">
+        <seg>Pozostałe wiersze muszą zawierać punktację alfanumeryczną lub numeryczną oddzieloną spacjami, tabulatorami i/lub przecinkami.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>The selected range must be formatted so that the columns of the spreadsheet represent variables (or fields), while the rows represent cases or records.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Karolina" changedate="20230327T141829Z" creationid="Karolina" creationdate="20230327T141829Z">
+        <seg>Wybrany zakres musi być sformatowany tak, aby kolumny arkusza kalkulacyjnego reprezentowały zmienne (lub pola), a wiersze - przypadki lub rekordy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>The three windows in the right panel may be maximized to take up most of the available vertical space by clicking the &lt;/s0&gt;&lt;i1&gt;&lt;s2&gt; button located on the top right corner of the window.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Karolina" changedate="20230326T214808Z" creationid="Karolina" creationdate="20230326T214808Z">
+        <seg>Trzy okna w prawym panelu można zmaksymalizować, aby zajmowały większość dostępnej przestrzeni w pionie, klikając przycisk &lt;/s0&gt;&lt;i1&gt;&lt;s2&gt; znajdujący się w prawym górnym rogu okna.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>The working environment</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Karolina" changedate="20230326T214030Z" creationid="Karolina" creationdate="20230326T214030Z">
+        <seg>Środowisko pracy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>There are now three ways to navigate through cases.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Karolina" changedate="20230327T102711Z" creationid="Karolina" creationdate="20230327T102425Z">
+        <seg>Obecnie istnieją trzy sposoby poruszania się po przypadkach.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>These cases are displayed either as a list or grouped as a tree.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Karolina" changedate="20230326T214313Z" creationid="Karolina" creationdate="20230326T214313Z">
+        <seg>Sprawy te są wyświetlane jako lista lub pogrupowane w formie drzewa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>These variables are used to specify the properties associated with a case.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Karolina" changedate="20230327T103657Z" creationid="Karolina" creationdate="20230327T103657Z">
+        <seg>Zmienne te są używane do określenia właściwości związanych z danym przypadkiem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>This area is used to display codes assigned to text segments or image areas.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Karolina" changedate="20230326T214523Z" creationid="Karolina" creationdate="20230326T214523Z">
+        <seg>Służy on do wyświetlania kodów przypisanych do segmentów tekstu lub obszarów obrazu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>This area is used to review coding, remove or change assigned codes, and attach notes to any coded segments (see &lt;/s1&gt;&lt;s2&gt;&lt;a3&gt;Working with Code Marks&lt;/a3&gt;&lt;/s2&gt;&lt;s4&gt;).&lt;/s4&gt;</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Karolina" changedate="20230326T214659Z" creationid="Karolina" creationdate="20230326T214659Z">
+        <seg>Ten obszar służy do przeglądu kodowania, usuwania lub zmiany przypisanych kodów oraz dołączania notatek do zakodowanych segmentów (patrz&lt;/s1&gt;&lt;s2&gt;&lt;a3&gt;Working with Code Marks&lt;/a3&gt;&lt;/s2&gt;&lt;s4&gt; - praca z oznaczeniami kodów).&lt;/s4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>This command calls up a dialog box similar to the one below:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Karolina" changedate="20230327T142746Z" creationid="Karolina" creationdate="20230327T142746Z">
+        <seg>Polecenie to wywołuje okno dialogowe podobne do poniższego:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>This format enables the use of different fonts and styles and paragraph formatting.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Karolina" changedate="20230327T143314Z" creationid="Karolina" creationdate="20230327T143314Z">
+        <seg>Format ten umożliwia stosowanie różnych czcionek i stylów oraz formatowanie akapitów.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>This menu also provides access to external modules such as WordStat (quantitative content analysis and text mining) and Simstat (statistical analysis).</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Karolina" changedate="20230327T102342Z" creationid="Karolina" creationdate="20230327T102342Z">
+        <seg>To menu zapewnia również dostęp do modułów zewnętrznych, takich jak WordStat (ilościowa analiza treści i text mining) i Simstat (analiza statystyczna).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>This structure is defined by the list of variables that each case will contain.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Karolina" changedate="20230327T142849Z" creationid="Karolina" creationdate="20230327T142849Z">
+        <seg>Struktura ta jest określona przez listę zmiennych, które każdy przypadek będzie zawierał.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>This toolbar displays the following four buttons</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Karolina" changedate="20230327T102928Z" creationid="Karolina" creationdate="20230327T102928Z">
+        <seg>Ten pasek narzędzi wyświetla następujące cztery przyciski</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>This window is used mainly to browse through cases and select the active case on which you want to work.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Karolina" changedate="20230326T214322Z" creationid="Karolina" creationdate="20230326T214322Z">
+        <seg>To okno służy głównie do przeglądania spraw i wybierania aktywnej sprawy, na której chcemy pracować.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>This window is used to view and edit documents and images and assign codes to text segments or image areas.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Karolina" changedate="20230326T214430Z" creationid="Karolina" creationdate="20230326T214430Z">
+        <seg>To okno służy do przeglądania i edycji dokumentów i obrazów oraz przypisywania kodów do segmentów tekstu lub obszarów obrazu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>To change the position of a variable in the list:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Karolina" changedate="20230327T143951Z" creationid="Karolina" creationdate="20230327T143951Z">
+        <seg>Aby zmienić pozycję zmiennej na liście:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>To create a new data file, select the NEW command from the PROJECT menu.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Karolina" changedate="20230327T142737Z" creationid="Karolina" creationdate="20230327T142737Z">
+        <seg>Aby utworzyć nowy plik danych, należy wybrać z menu PROJECT (PROJEKT) polecenie NEW (NOWY).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>To create a new variable:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Karolina" changedate="20230327T143809Z" creationid="Karolina" creationdate="20230327T143809Z">
+        <seg>Aby utworzyć nową zmienną:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>To create the data file:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Karolina" changedate="20230327T144028Z" creationid="Karolina" creationdate="20230327T144028Z">
+        <seg>Aby utworzyć plik z danymi:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>To enter new values, click the EDIT button.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Karolina" changedate="20230327T143612Z" creationid="Karolina" creationdate="20230327T143612Z">
+        <seg>Aby wprowadzić nowe wartości, należy kliknąć przycisk EDIT (EDYTUJ).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>To import an Atlas.ti project, follow these instructions:&lt;br0&gt;</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Karolina" changedate="20230327T142112Z" creationid="Karolina" creationdate="20230327T142112Z">
+        <seg> </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>To import data from any of these applications:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Karolina" changedate="20230327T140531Z" creationid="Karolina" creationdate="20230327T140531Z">
+        <seg>Aby zaimportować dane z dowolnej z tych aplikacji:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>To import data, you need to export from those programs or services the references into an RIS data file.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Karolina" changedate="20230327T142351Z" creationid="Karolina" creationdate="20230327T142351Z">
+        <seg>Aby importować dane, należy wyeksportować z tych programów lub serwisów referencje do pliku z danymi RIS.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>To import such a file, set the file type list box to Reference Information Management (RIS) and then select the file you wish to import.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Karolina" changedate="20230327T142408Z" creationid="Karolina" creationdate="20230327T142408Z">
+        <seg>Aby zaimportować taki plik, ustaw pole listy typów plików na Reference Information Management (RIS), a następnie wybierz plik, który chcesz zaimportować.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>To open a recently opened project:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Karolina" changedate="20230327T134810Z" creationid="Karolina" creationdate="20230327T134810Z">
+        <seg>Aby otworzyć ostatnio otwarty projekt:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>To open an existing project:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Karolina" changedate="20230327T135759Z" creationid="Karolina" creationdate="20230327T135759Z">
+        <seg>Żeby otworzyć istniejący projek:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>To open another project:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Karolina" changedate="20230327T134944Z" creationid="Karolina" creationdate="20230327T134944Z">
+        <seg>Aby otworzyć inny projekt:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>To remove a variable from the list:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Karolina" changedate="20230327T143920Z" creationid="Karolina" creationdate="20230327T143920Z">
+        <seg>Aby usunąć zmienną z listy:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>To the right of this window is a gutter area.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Karolina" changedate="20230326T214517Z" creationid="Karolina" creationdate="20230326T214517Z">
+        <seg>Na prawo od tego okna znajduje się obszar boczny.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Triple-S XML file (an XML standard to exchange survey data)</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Karolina" changedate="20230327T140431Z" creationid="Karolina" creationdate="20230327T140431Z">
+        <seg>Plik Triple-S XML (standard XML do wymiany danych ankietowych)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Up to 2035 variables can be associated with each case.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Karolina" changedate="20230327T103751Z" creationid="Karolina" creationdate="20230327T103751Z">
+        <seg>Z każdym przypadkiem można powiązać do 2035 zmiennych.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Valid variable names begin with a letter and may contain letters, numbers or underscore characters.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Karolina" changedate="20230327T143046Z" creationid="Karolina" creationdate="20230327T143046Z">
+        <seg>Ważne nazwy zmiennych zaczynają się od litery i mogą zawierać litery, cyfry lub znaki podkreślenia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>ValueEditor</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Karolina" changedate="20230327T143642Z" creationid="Karolina" creationdate="20230327T143642Z">
+        <seg>Edytor wartości</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Variable Definitions</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Karolina" changedate="20230327T142827Z" creationid="Karolina" creationdate="20230327T142827Z">
+        <seg>Definicje zmiennych</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Variable names may not be longer than ten characters.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Karolina" changedate="20230327T141215Z" creationid="Karolina" creationdate="20230327T141215Z">
+        <seg>Nazwy zmiennych nie mogą być dłuższe niż dziesięć znaków.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>We will now discuss the specific file formats in greater detail, including formatting requirement (if applicable), supported features and limitations.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Karolina" changedate="20230327T140734Z" creationid="Karolina" creationdate="20230327T140734Z">
+        <seg>Omówimy teraz bardziej szczegółowo poszczególne formaty plików, w tym wymagania dotyczące formatowania (jeśli dotyczy), obsługiwane funkcje i ograniczenia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>When a case contains more than one document or image, you can switch between documents by selecting the document/image name from the list box located in the top left corner of this window.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Karolina" changedate="20230326T214440Z" creationid="Karolina" creationdate="20230326T214440Z">
+        <seg>Gdy sprawa zawiera więcej niż jeden dokument lub obraz, możesz przełączać się między dokumentami, wybierając nazwę dokumentu/obrazu z pola listy umieszczonego w lewym górnym rogu tego okna.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>When a nominal/ordinal data type is selected, you will be asked to first provide a list of values that this variable can take.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Karolina" changedate="20230327T143552Z" creationid="Karolina" creationdate="20230327T143552Z">
+        <seg>Po wybraniu nominalnego/ordynarnego typu danych, zostaniesz poproszony o podanie najpierw listy wartości, jakie może przyjąć ta zmienna.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>When asked when you want to include documents and quotations, click &lt;s0&gt;YES&lt;/s0&gt;.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Karolina" changedate="20230327T142203Z" creationid="Karolina" creationdate="20230327T142203Z">
+        <seg>Na pytanie, czy chcesz dołączyć dokumenty i cytaty, kliknij &lt;s0&gt;Tak&lt;/s0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>When creating a short string variable, you must first specify the maximum number of characters this variable with hold.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Karolina" changedate="20230327T143801Z" creationid="Karolina" creationdate="20230327T143801Z">
+        <seg>Tworząc zmienną typu short string, należy najpierw określić maksymalną liczbę znaków, jakie ta zmienna może pomieścić.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>When you choose floating point numbers, you will be asked to specify the number of decimal places to display.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Karolina" changedate="20230327T143448Z" creationid="Karolina" creationdate="20230327T143448Z">
+        <seg>Gdy wybierzesz liczby zmiennoprzecinkowe, zostaniesz poproszony o określenie liczby miejsc dziesiętnych do wyświetlenia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>When you have finished defining the structure of the new project, click the &lt;s0&gt;OK&lt;/s0&gt; button.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Karolina" changedate="20230327T144037Z" creationid="Karolina" creationdate="20230327T144037Z">
+        <seg>Po zakończeniu definiowania struktury nowego projektu kliknij przycisk &lt;s0&gt;OK&lt;/s0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>When you select a MS Access data file, the program displays a dialog box in which you can specify the table where the data are located.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Karolina" changedate="20230327T142048Z" creationid="Karolina" creationdate="20230327T142048Z">
+        <seg>Po wybraniu pliku danych MS Access program wyświetla okno dialogowe, w którym można określić tabelę, w której znajdują się dane.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>When you select a spreadsheet file format for importation, the program displays a dialog box in which you can specify the spreadsheet page and the range of cells where the data are located.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Karolina" changedate="20230327T141723Z" creationid="Karolina" creationdate="20230327T141723Z">
+        <seg>Po wybraniu do importu formatu pliku arkusza kalkulacyjnego program wyświetla okno dialogowe, w którym można określić stronę arkusza i zakres komórek, w których znajdują się dane.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>When you start QDA Miner, an introductory dialog box appears:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Karolina" changedate="20230327T134641Z" creationid="Karolina" creationdate="20230327T134641Z">
+        <seg>Po uruchomieniu programu QDA Miner pojawia się wprowadzające okno dialogowe:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>You can also minimize a single window by clicking the &lt;/s4&gt;&lt;i5&gt;&lt;s6&gt; button.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Karolina" changedate="20230327T102002Z" creationid="Karolina" creationdate="20230327T102002Z">
+        <seg>Możesz również zminimalizować pojedyncze okno, klikając&lt;/s4&gt;&lt;i5&gt;&lt;s6&gt;przycisk.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>You can also open a project by double-clicking its icon in Windows Explorer:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Karolina" changedate="20230327T135610Z" creationid="Karolina" creationdate="20230327T135610Z">
+        <seg>Możesz również otworzyć projekt, klikając dwukrotnie jego ikonę w Windows Explorer:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>You can move to a specific case by clicking its entry in the CASES window.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Karolina" changedate="20230327T102809Z" creationid="Karolina" creationdate="20230327T102440Z">
+        <seg>Możesz przejść do konkretnego przypadku, klikając jego wpis w oknie CASES.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>You can start typing values (one value per line) in the large edit box.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Karolina" changedate="20230327T143651Z" creationid="Karolina" creationdate="20230327T143651Z">
+        <seg>Możesz zacząć wpisywać wartości (jedna wartość na linię) w dużym polu edycyjnym.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>You may also add other variables to specify sociodemographic information for the interviewee, group membership, as well as the interview date and individual responses to closed-ended questions.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Karolina" changedate="20230327T103738Z" creationid="Karolina" creationdate="20230327T103738Z">
+        <seg>Można również dodać inne zmienne określające informacje socjodemograficzne dla respondenta, przynależność do grupy, a także datę wywiadu i indywidualne odpowiedzi na pytania zamknięte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>You may also browse through cases, by pressing the &lt;s0&gt;Ctrl-PgDn&lt;/s0&gt; button to move to the next case or&lt;s1&gt; Ctrl-PgUp&lt;/s1&gt; to move to the previous case.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Karolina" changedate="20230327T102855Z" creationid="Karolina" creationdate="20230327T102625Z">
+        <seg>Możesz również przeglądać przypadki, naciskając przycisk &lt;s0&gt;Ctrl-PgDn&lt;/s0&gt;, aby przejść do następnego przypadku lub&lt;s1&gt; Ctrl-PgUp&lt;/s1&gt;, aby przejść do poprzedniej.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>You may also use the navigation toolbar located above the document window.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Karolina" changedate="20230327T102917Z" creationid="Karolina" creationdate="20230327T102917Z">
+        <seg>Możesz również skorzystać z paska nawigacji znajdującego się nad oknem dokumentu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>You may also use this data type to hold ordinal ranking ("novice", "intermediate", or "expert") or responses to close-ended questions such as Likert scale items (e.g.: from "strongly disagree" to "strongly agree").</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Karolina" changedate="20230327T143534Z" creationid="Karolina" creationdate="20230327T143534Z">
+        <seg>Możesz również użyć tego typu danych do przechowywania klasyfikacji porządkowej ("początkujący", "średniozaawansowany" lub "ekspert") lub odpowiedzi na pytania zamknięte, takie jak elementy skali Likerta (np.: od "zdecydowanie nie zgadzam się" do "zdecydowanie zgadzam się").</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>You may leave this column blank if you wish since it is always possible to add or edit a description later using the VARIABLES | PROPERTIES command.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Karolina" changedate="20230327T143142Z" creationid="Karolina" creationdate="20230327T143142Z">
+        <seg>Możesz zostawić tę kolumnę pustą, jeśli chcesz, ponieważ zawsze można dodać lub edytować opis później za pomocą polecenia VARIABLES | PROPERTIES.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>You must specify a valid range name or provide upper left and lower right cells, separated by two periods (such as A1..H20).</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Karolina" changedate="20230327T141733Z" creationid="Karolina" creationdate="20230327T141733Z">
+        <seg>Musisz określić poprawną nazwę zakresu lub podać lewą górną i prawą dolną komórkę, oddzielone dwoma kropkami (np. A1..H20).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>You should use this data type instead of short strings if you plan to analyse this variable or examine the relationship between its values and any other variable or coding of documents.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Karolina" changedate="20230327T143544Z" creationid="Karolina" creationdate="20230327T143544Z">
+        <seg>Powinieneś użyć tego typu danych zamiast krótkich łańcuchów, jeśli planujesz analizować tę zmienną lub badać związek między jej wartościami a jakąkolwiek inną zmienną lub kodowaniem dokumentów.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>You will be asked to specify the name of the project that you want to create.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Karolina" changedate="20230327T144045Z" creationid="Karolina" creationdate="20230327T144045Z">
+        <seg>Zostaniesz poproszony o podanie nazwy projektu, który chcesz utworzyć.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>click the &lt;s0&gt;Import from an existing database&lt;/s0&gt; button.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Karolina" changedate="20230327T140646Z" creationid="Karolina" creationdate="20230327T140646Z">
+        <seg>kliknij przycisk &lt;s0&gt;Importuj z istniejącej bazy danych&lt;/s0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>click the &lt;s0&gt;Open&lt;/s0&gt; button.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Karolina" changedate="20230327T135349Z" creationid="Karolina" creationdate="20230327T135349Z">
+        <seg>&lt;s0&gt;kliknij przycisk &lt;/s0&gt;Otwórz (Open)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>click the Add button to add the defined variable to the list.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Karolina" changedate="20230327T143911Z" creationid="Karolina" creationdate="20230327T143911Z">
+        <seg>kliknij przycisk Add (Dodaj), aby dodać zdefiniowaną zmienną do listy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>click the Remove button.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Karolina" changedate="20230327T143943Z" creationid="Karolina" creationdate="20230327T143943Z">
+        <seg>kliknij przycisk Remove (Usuń).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>click the project file that you want to reopen.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Karolina" changedate="20230327T135518Z" creationid="Karolina" creationdate="20230327T135518Z">
+        <seg>kliknij plik projektu, który chcesz ponownie otworzyć.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>click the up or down arrows located to the right of the grid until the variable appears in the desired location.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Karolina" changedate="20230327T144021Z" creationid="Karolina" creationdate="20230327T144015Z">
+        <seg>klikaj strzałki w górę lub w dół znajdujące się po prawej stronie siatki, aż zmienna pojawi się w żądanym miejscu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>clicking the &lt;/s2&gt;&lt;i3&gt;&lt;s4&gt; button restores the maximized window to its original size.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Karolina" changedate="20230326T214926Z" creationid="Karolina" creationdate="20230326T214926Z">
+        <seg>kliknięcie przycisku &lt;/s2&gt;&lt;i3&gt;&lt;s4&gt; przywraca zmaksymalizowane okno do pierwotnego rozmiaru.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>dBase and Paradox Files</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Karolina" changedate="20230327T142002Z" creationid="Karolina" creationdate="20230327T142002Z">
+        <seg>Pliki dBase i Paradox</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
