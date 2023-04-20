@@ -12,6 +12,14 @@
         <seg>Creating an Empty Project</seg>
       </tuv>
     </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Table of Contents</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Karolina Kloc" changedate="20230420T222953Z" creationid="Karolina Kloc" creationdate="20230420T222953Z">
+        <seg>Table of Contents</seg>
+      </tuv>
+    </tu>
 <!-- Alternative translations -->
   </body>
 </tmx>
