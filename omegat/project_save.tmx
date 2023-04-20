@@ -4,6 +4,14 @@
   <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="sentence" srclang="EN-GB"/>
   <body>
 <!-- Default translations -->
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Creating an Empty Project</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Karolina Kloc" changedate="20230420T222740Z" creationid="Karolina Kloc" creationdate="20230420T222740Z">
+        <seg>Creating an Empty Project</seg>
+      </tuv>
+    </tu>
 <!-- Alternative translations -->
   </body>
 </tmx>
