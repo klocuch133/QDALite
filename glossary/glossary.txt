@@ -1,0 +1,4 @@
+case	przypadek
+cases	przypadki
+Boolean type	Typ logiczny	typ boolowski
+Boolean variables	Zmienne logiczne	Zmienne Boolowskie
